@@ -6,7 +6,7 @@
     /**
      *  @package: IonicPush
      *  @author: Eftal Yurtseven
-     *  @uri: ..
+     *  @uri: https://github.com/eftalyurtseven/ionicPushClass
      *  @version: 0.1
      *
      */
