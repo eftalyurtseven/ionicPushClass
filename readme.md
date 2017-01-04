@@ -4,7 +4,7 @@ It allows you to send notifications you created via Apps.ionic.io with *PHP*.
 
 ## Usage
 
-   **Ionic Profile Nam** and **Auth Key** required for construction function.
+   **Ionic Profile Name** and **Auth Key** required for construction function.
 
 ```php
 $setArray =  [
